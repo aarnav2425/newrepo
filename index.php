@@ -3,7 +3,7 @@
 $name = $_POST['name'];
 $email = $_POST['email'];
 $subject = $_POST['subject'];
-$projectDetails = $_POST['project_details'];
+
 
 // Validate and sanitize the data (optional)
 
